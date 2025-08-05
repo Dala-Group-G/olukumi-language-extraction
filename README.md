@@ -11,7 +11,7 @@ Code base for DALA Group G to share our work.
 - **Ayomide Adegoke** — aadegoke100@gmail.com  
 - **Oladunjoye Ahmad** — oladunjoyeahmad@gmail.com  
 - **Omoboriowo Ibrahim** — omoboriowo756@gmail.com  
-- **Emigbanam Uwutaisuk** — emigbanam.design@gmail.com  
+- **Emigbanam Uwuitaisuk** — emigbanam.design@gmail.com  
 
 ---
 
